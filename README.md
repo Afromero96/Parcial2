@@ -1,1 +1,3 @@
-# Parcial2
+# Parcial2 
+---------------
+Antonio Francisco Romero Navarro
